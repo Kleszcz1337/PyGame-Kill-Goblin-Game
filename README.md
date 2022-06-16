@@ -1,11 +1,9 @@
 # PyGame-Kill-Goblin-Game
 
 Video from the game:
-![pygame video](https://user-images.githubusercontent.com/34660974/174143450-01706770-fc4d-4b94-9b66-6aed17926d6d.gif)
+![pygame git](https://user-images.githubusercontent.com/34660974/174144316-102b39c8-00d3-422b-b40c-5e2fc92b22f3.gif)
 
 
 Created by awesome tutorial from Tech with tim and assets from internet (No credits)
 
-
-https://user-images.githubusercontent.com/34660974/174143768-a70de6c8-91f6-408a-a900-f191ded6208c.mp4
-
+Feel free to use and modify
